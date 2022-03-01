@@ -19,8 +19,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/macdeesh/NFT-card-component)
-- Live Site URL: [Add live site URL here]( https://macdeesh.github.io/NFT-card-component/)
+- Solution URL: [https://github.com/macdeesh/NFT-card-component]
+- Live Site URL: [https://macdeesh.github.io/NFT-card-component/]
 
 ### Built with
 
