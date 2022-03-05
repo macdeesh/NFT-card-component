@@ -98,6 +98,7 @@ body {
 
 .col-ETH {
   float: left;
+  margin-left: 16px;
   color: hsl(178, 100%, 50%);
   display: inline-flex;
   position: relative;
@@ -118,6 +119,7 @@ body {
   display: inline-flex;
   position: relative;
 }
+
 .col-date::before {
   content: '';
   background: url("../images/icon-clock.svg") no-repeat;
