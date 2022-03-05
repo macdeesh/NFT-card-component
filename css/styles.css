@@ -101,11 +101,12 @@ body {
   float: left;
   color: hsl(178, 100%, 50%);
   display: inline-flex;
+  position: relative;
 }
 
 .col-ETH::before {
   content: '';
-  background-image: url("images/icon-clock.svg");
+  background: url("../images/icon-ethereum.svg")  no-repeat;
   position: absolute;
   top: 0;
   left: 0;
@@ -117,9 +118,11 @@ body {
 .col-date {
   float: right;
   display: inline-flex;
+  position: relative;
 }
 .col-date::before {
-  content: url("images/icon-ethereum.svg");
+  content: '';
+  background: url("../images/icon-clock.svg") no-repeat;
   position: absolute;
   top: 0;
   left: 0;
