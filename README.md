@@ -21,7 +21,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./Screen Shot Solution.png)
+![](NFT-card-component/Screen Shot Solution.png)
 
 ### Links
 
